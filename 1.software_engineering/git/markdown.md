@@ -100,6 +100,9 @@ images/picture.jpg  | (the file is in the images folder that is in the current d
 ../file.php         | (file is in the folder that is one level higher than the current directory)
 ../../file.php      | (file is in the folder that is two levels higher than the current directory)
 
+# Math
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
 
 # Emoji
 Using emoji
